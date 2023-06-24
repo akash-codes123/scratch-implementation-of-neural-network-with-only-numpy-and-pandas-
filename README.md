@@ -30,5 +30,4 @@ Training a neural network for multiclass classification involves several mathema
 
 6. Repeat Steps 2-5:
    - Repeat the forward propagation, cost calculation, backward propagation, and gradient descent steps for a specified number of epochs or until the model converges.
-   - 
 By iteratively adjusting the weights and biases based on the gradients computed during backpropagation and using gradient descent optimization, the neural network learns to make better predictions over time, ultimately improving its performance in multiclass classification tasks.
